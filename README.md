@@ -1,8 +1,8 @@
 # React Performance Lab ⚡
 
-An interactive dashboard that demonstrates core React performance optimization techniques with **real measurable results** — not simulated numbers.
+An interactive dashboard that demonstrates core React performance optimization techniques with **real measurable results**.
 
-Live Demo → [react-perf-dashboard.vercel.app](#) *(link coming soon)*
+Live Demo → [react-perf-dashboard.vercel.app](https://react-perf-dashboard-mokmobg1q-jainkonika97-3328s-projects.vercel.app/)
 
 ---
 
