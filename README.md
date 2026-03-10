@@ -74,9 +74,8 @@ Open http://localhost:5173
 
 ## Other projects
 
-- [Accessible UI Kit](#) *(coming soon)*
-- [GraphQL Search Bar](#) *(coming soon)*
-- [Virtualized Data Table](#) *(coming soon)*
+- [Accessible UI Kit](https://github.com/konikajain/accessible-ui-kit) 
+- [GraphQL Search Bar](https://github.com/konikajain/graphql-search)
 
 ---
 
