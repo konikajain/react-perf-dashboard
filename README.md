@@ -2,7 +2,7 @@
 
 An interactive dashboard that demonstrates core React performance optimization techniques with **real measurable results**.
 
-Live Demo → [react-perf-dashboard.vercel.app](https://react-perf-dashboard-mokmobg1q-jainkonika97-3328s-projects.vercel.app/)
+Live Demo → [react-perf-dashboard.vercel.app](https://react-perf-dashboard.vercel.app/)
 
 ---
 
